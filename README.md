@@ -8,4 +8,4 @@ Otro cambio en github
 
 conflicto vscode
 =======
-nuevo cambio para conplicto en github
+nuevo cambio para conflicto en github
